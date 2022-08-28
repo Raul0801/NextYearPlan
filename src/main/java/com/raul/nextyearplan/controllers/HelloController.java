@@ -1,4 +1,4 @@
-package com.raul.nextyearplan;
+package com.raul.nextyearplan.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
@@ -9,6 +9,6 @@ public class HelloController {
 
     @FXML
     protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to JavaFX Application!");
+        this.welcomeText.setText("Welcome to JavaFX Application!");
     }
 }
