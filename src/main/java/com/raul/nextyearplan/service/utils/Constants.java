@@ -1,4 +1,4 @@
-package com.raul.nextyearplan.utils;
+package com.raul.nextyearplan.service.utils;
 
 public class Constants {
 
